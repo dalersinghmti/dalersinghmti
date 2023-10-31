@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![Banner](https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=1167&name=cybersecurity%20framework.gif)
 
 # Hi there! 👋 I'm Daler Singh
 
