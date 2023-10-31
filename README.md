@@ -9,7 +9,7 @@
 
 ### 💬 About Me
 
-I'm deeply passionate about cybersecurity and ethical hacking. I firmly believe that the wisdom acquired through life's diverse experiences serves as a guiding light, illuminating the path towards achieving enduring long-term goals.
+I'm deeply passionate about cybersecurity, Penetration Testing and Ethical Hacking. I like to learn new stuff either it is technical or non-technical, because I firmly believe that the wisdom acquired through life's diverse experiences serves as a guiding light, illuminating the path towards achieving enduring long-term goals.
 
 ### 💻 My Tech Stack
 
