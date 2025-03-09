@@ -31,7 +31,7 @@ I'm deeply passionate about cybersecurity, Penetration Testing and Ethical Hacki
 #### Operating Systems:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50">
-<img src="https://camo.githubusercontent.com/7e118c9bc68099f379747bf8e51892e61b4b14230a0e4f9275eb2c67c84d6486/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d626c75653f7374796c653d666c6174266c6f676f3d57696e646f7773266c6f676f436f6c6f723d7768697465" alt="Linux" width="125">
+<img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_1280.png" alt="Linux" width="75">
 
 #### Database:
 <p align="left">
